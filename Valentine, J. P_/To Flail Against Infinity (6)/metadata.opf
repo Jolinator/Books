@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91c2bdd5-2d3b-41dc-ac14-346446a4517b</dc:identifier>
+        <dc:title>To Flail Against Infinity</dc:title>
+        <dc:creator opf:file-as="Valentine, J. P." opf:role="aut">Valentine, J. P.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-03-30T23:00:00+00:00</dc:date>
+        <dc:publisher>Nixia Publishing LLC</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-04-21T14:53:42+00:00"/>
+        <meta name="calibre:title_sort" content="To Flail Against Infinity"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

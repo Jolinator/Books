@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95475c8b-ef1b-44ba-a8a9-cf61b2228e75</dc:identifier>
+        <dc:title>The Will of the Many</dc:title>
+        <dc:creator opf:file-as="Islington, James" opf:role="aut">James Islington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-23T00:00:00+00:00</dc:date>
+        <dc:description>&lt;B&gt;At the elite Catenan Academy, a young fugitive uncovers layered mysteries and world-changing secrets in this new fantasy series by internationally bestselling author of The Licanius Trilogy, James Islington.&lt;/B&gt;&lt;BR&gt;&lt;B&gt;&lt;I&gt;AUDI. VIDE. TACE.&lt;/I&gt;&lt;/B&gt;&lt;BR&gt; &lt;BR&gt;The Catenan Republic&amp;#8212;the Hierarchy&amp;#8212;may rule the world now, but they do not know everything.&lt;BR&gt; &lt;BR&gt;I tell them my name is Vis Telimus. I tell them I was orphaned after a tragic accident three years ago, and that good fortune alone has led to my acceptance into their most prestigious school. I tell them that once I graduate, I will gladly join the rest of civilised society in allowing my strength, my drive and my focus&amp;#8212;what they call Will&amp;#8212;to be leeched away and added to the power of those above me, as millions already do. As all must eventually do.&lt;BR&gt; &lt;BR&gt;I tell them that I belong, and they believe me.&lt;BR&gt; &lt;BR&gt;But the truth is that I have been sent to the Academy to find answers. To solve a murder. To...</dc:description>
+        <dc:publisher>Gallery / Saga Press</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-06-26T02:27:05+00:00"/>
+        <meta name="calibre:title_sort" content="Will of the Many, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

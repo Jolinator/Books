@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04d22efa-c1fd-41f7-90b5-de360e735411</dc:identifier>
+        <dc:title>The Hunger of the Gods</dc:title>
+        <dc:creator opf:file-as="GWYNNE, JOHN" opf:role="aut">John Gwynne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-12T00:00:00+00:00</dc:date>
+        <dc:description>&lt;P&gt;&lt;B&gt;Set in a Norse-inspired world and packed with myth, magic, and vengeance, this epic saga follows a band of warriors as they face the wrath of ancient gods and change the shape of the world.&lt;/B&gt;&lt;/P&gt; Lik-Rifa, the dragon god of legend, has been freed from her eternal prison. Now she plots a new age of blood and conquest. &amp;#160;&amp;#160;&lt;BR /&gt;&amp;#160; &amp;#160;&lt;BR /&gt;As Orka continues the hunt for her missing son, the Bloodsworn sweep south in a desperate race to save one of their own&amp;ndash;and Varg takes the first steps on the path of vengeance. &amp;#160;&amp;#160;&lt;BR /&gt;&amp;#160; &amp;#160;&lt;BR /&gt;Elvar has sworn to fulfil her blood oath and rescue a prisoner from the clutches of Lik-Rifa and her dragonborn followers, but first she must persuade the Battle-Grim to follow her. &amp;#160;&lt;BR /&gt;Yet even the might of the Bloodsworn and Battle-Grim cannot stand alone against a dragon god. &amp;#160;&amp;#160;&lt;BR /&gt;&amp;#160;&lt;BR /&gt;Their hope lies within the mad writings of a chained god. A book of forbidden magic with the...</dc:description>
+        <dc:publisher>Orbit</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John Gwynne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-08-04T23:24:26.488821+00:00"/>
+        <meta name="calibre:title_sort" content="Hunger of the Gods, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

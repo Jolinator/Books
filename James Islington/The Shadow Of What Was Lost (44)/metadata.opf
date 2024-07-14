@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a33d3c3-5ed1-4ffe-a27f-238d64da745a</dc:identifier>
+        <dc:title>The Shadow Of What Was Lost</dc:title>
+        <dc:creator opf:file-as="Islington, James" opf:role="aut">James Islington</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-03T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;em&gt;It has been twenty years since the end of the war. The dictatorial Augurs - once thought of almost as gods - were overthrown and wiped out during the conflict, their much-feared powers mysteriously failing them. Those who had ruled under them, men and women with a lesser ability known as the Gift, avoided the Augurs' fate only by submitting themselves to the rebellion's Four Tenets. A representation of these laws is now written into the flesh of any who use the Gift, forcing those so marked into absolute obedience.&lt;/em&gt;   &lt;/p&gt;&lt;p&gt;As a student of the Gifted, Davian suffers the consequences of a war fought – and lost – before he was born. Despised by most beyond the school walls, he and those around him are all but prisoners as they attempt to learn control of the Gift. Worse, as Davian struggles with his lessons, he knows that there is further to fall if he cannot pass his final tests.   &lt;/p&gt;&lt;p&gt;But when Davian discovers he has the ability to wield the forbidden power of the Augurs, he sets into motion a chain of events that will change everything. To the north, an ancient enemy long thought defeated begins to stir. And to the west, a young man whose fate is intertwined with Davian’s wakes up in the forest, covered in blood and with no memory of who he is…&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00ME5G3DM</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00ME5G3DM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature &amp; Fiction</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
+        <dc:subject>Epic</dc:subject>
+        <dc:subject>Sword &amp; Sorcery</dc:subject>
+        <dc:subject>Teen &amp; Young Adult</dc:subject>
+        <dc:subject>Coming of Age</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;James Islington&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Licanius Trilogy"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2023-07-17T21:26:59+00:00"/>
+        <meta name="calibre:title_sort" content="Shadow Of What Was Lost, The"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: null, &quot;description&quot;: &quot;adwadwdaw&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

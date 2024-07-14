@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a5c5a8b-54bf-47db-8ca6-69fe082e2bdb</dc:identifier>
+        <dc:title>The Land: Forging (Chaos Seeds Book 2)</dc:title>
+        <dc:creator opf:file-as="Kong, Aleron" opf:role="aut">Aleron Kong</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-18T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The second captivating installment of Aleron Kong's, Chaos Seeds series.   &lt;/p&gt;
+&lt;p&gt;"We are life takers and heart breakers," Richter shouted. "Let's go!"   &lt;/p&gt;
+&lt;p&gt;Richter and Sion are at it again! Even more of what you loved in the first book! Leveling, world building, awesome items, and what's that you say? Sure! Why not? What's a little necrophilia between friends!?!   &lt;/p&gt;
+&lt;p&gt;Join your favorite Chaos Seed as he answers the call of adventure and deals with the invaders, greedy dwarves, and a wood elf that keeps telling him he has a pretty mouth!   &lt;/p&gt;
+&lt;p&gt;Welcome back my friends!   &lt;/p&gt;
+&lt;p&gt;Welcome back... to The Land!!!!   &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01ATAN9G2</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B01ATAN9G2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
+        <dc:subject>Epic</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Cyberpunk</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aleron Kong&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Chaos Seeds"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-09-23T13:05:10.042695+00:00"/>
+        <meta name="calibre:title_sort" content="Land: Forging (Chaos Seeds Book 2), The"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: null, &quot;description&quot;: &quot;adwadwdaw&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

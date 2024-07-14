@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">098d8e89-4fd9-41a5-8579-7c1a306976f1</dc:identifier>
+        <dc:title>Lions of the Reach (Rage of Lions Book 3)</dc:title>
+        <dc:creator opf:file-as="Barron, Matt" opf:role="aut">Matt Barron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-08-25T16:00:00+00:00</dc:date>
+        <dc:publisher>Blade of Truth Publishing Company</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0B194BNLB</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Matt Barron&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-14T20:14:09+00:00"/>
+        <meta name="calibre:title_sort" content="Lions of the Reach (Rage of Lions Book 3)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

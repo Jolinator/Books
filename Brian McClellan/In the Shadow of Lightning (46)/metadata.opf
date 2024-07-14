@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9dc669b-3baa-43bf-a728-999015fea9a0</dc:identifier>
+        <dc:title>In the Shadow of Lightning</dc:title>
+        <dc:creator opf:file-as="McClellan, Brian" opf:role="aut">Brian McClellan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;From Brian McClellan, author of &lt;i&gt;The Powder Mage &lt;/i&gt;trilogy, comes the first novel in the Glass Immortals series, &lt;i&gt;In the Shadow of Lightning&lt;/i&gt;, an epic fantasy where magic is a finite resource&amp;#8212;and it's running out.&lt;br&gt; "Excellent worldbuilding and a truly epic narrative combine into Brian's finest work to date. Heartily recommended to anyone who wants a new favorite fantasy series to read."&amp;#8212;Brandon Sanderson&lt;/b&gt;&lt;br&gt; Demir Grappo is an outcast&amp;#8212;he fled a life of wealth and power, abandoning his responsibilities as a general, a governor, and a son. Now he will live out his days as a grifter, rootless, and alone. But when his mother is brutally murdered, Demir must return from exile to claim his seat at the head of the family and uncover the truth that got her killed: the very power that keeps civilization turning, godglass, is running out.&lt;br&gt; Now, Demir must find allies, old friends and rivals alike, confront the powerful guild-families who are only...</dc:description>
+        <dc:publisher>Tom Doherty Associates</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brian McClellan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-07-24T16:45:30+00:00"/>
+        <meta name="calibre:title_sort" content="In the Shadow of Lightning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">75</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">761a903d-9c5a-450b-b18f-c260ef80c8fc</dc:identifier>
+        <dc:title>Howling Dark</dc:title>
+        <dc:creator opf:file-as="Ruocchio, Christopher" opf:role="aut">Christopher Ruocchio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-16T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;The second novel of the galaxy-spanning Sun Eater series merges the best of space opera and epic fantasy, as Hadrian Marlowe continues down a path that can only end in fire.&lt;/b&gt;&lt;br&gt;Hadrian Marlowe is lost. &lt;br&gt;For half a century, he has searched the farther suns for the lost planet of Vorgossos, hoping to find a way to contact the elusive alien Cielcin. He has not succeeded, and for years has wandered among the barbarian Normans as captain of a band of mercenaries.&lt;br&gt;Determined to make peace and bring an end to nearly four hundred years of war, Hadrian must venture beyond the security of the Sollan Empire and among the Extrasolarians who dwell between the stars. There, he will face not only the aliens he has come to offer peace, but contend with creatures that once were human, with traitors in his midst, and with a meeting that will bring him face to face with no less than the oldest enemy of mankind.&lt;br&gt;If he succeeds, he will usher in a peace unlike any in recorded history....</dc:description>
+        <dc:publisher>DAW</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Christopher Ruocchio&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2024-02-02T17:47:00.972512+00:00"/>
+        <meta name="calibre:title_sort" content="Howling Dark"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: null, &quot;description&quot;: &quot;adwadwdaw&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

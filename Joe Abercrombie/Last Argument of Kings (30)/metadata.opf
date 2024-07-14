@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5f1a26b-cce5-450f-bd00-0a007cf24d3b</dc:identifier>
+        <dc:title>Last Argument of Kings</dc:title>
+        <dc:creator opf:file-as="ABERCROMBIE, JOE" opf:role="aut">Joe Abercrombie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;The final novel in the First Law Trilogy by of&lt;i&gt; New York Times&lt;/i&gt; bestseller Joe Abercrombie. &lt;/b&gt; &lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;p&gt;Logen Ninefingers might only have one more fight in him-but it's going to be a big one. Battle rages across the North, the king of the Northmen still stands firm, and there's only one man who can stop him. His oldest friend, and his oldest enemy: it's time for the Bloody-Nine to come home.&lt;br&gt; With too many masters and too little time, Superior Glokta is fighting a different kind of war. A secret struggle in which no one is safe, and no one can be trusted. As his days with a sword are far behind him, it's fortunate that he's deadly with his remaining weapons: blackmail, threats, and torture.&lt;br&gt; Jezal dan Luthar has decided that winning glory is too painful an undertaking and turned his back on soldiering for a simple life with the woman he loves. But love can be painful too-and glory has a nasty habit of creeping up on a man when he least expects it.&lt;br&gt; The...</dc:description>
+        <dc:publisher>Orbit</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction / Fantasy / Epic</dc:subject>
+        <dc:subject>Fiction / Action &amp; Adventure</dc:subject>
+        <dc:subject>Fiction / Fantasy / Historical</dc:subject>
+        <dc:subject>Fiction / War &amp; Military</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joe Abercrombie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-12T22:02:57.202213+00:00"/>
+        <meta name="calibre:title_sort" content="Last Argument of Kings"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

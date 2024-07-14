@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f899513-c204-4b1d-9f5a-618b345a0136</dc:identifier>
+        <dc:title>Prentice Ash (Rage of Lions Book 1)</dc:title>
+        <dc:creator opf:file-as="Barron, Matt" opf:role="aut">Matt Barron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-24T16:00:00+00:00</dc:date>
+        <dc:publisher>Blade of Truth Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09QT7K1Y1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Matt Barron&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-14T20:13:55+00:00"/>
+        <meta name="calibre:title_sort" content="Prentice Ash (Rage of Lions Book 1)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e910ba5b-6589-4877-b6fc-1feaa8bdd59c</dc:identifier>
+        <dc:title>The Seven Realms Books #1-4</dc:title>
+        <dc:creator opf:file-as="Chima, Cinda Williams" opf:role="aut">Cinda Williams Chima</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-size: 14px; font-family: 'Merriweather','Georgia','serif'"&gt;&lt;span style="background-color: #ffffff; color: #181818"&gt;Enter the world of the Seven Realms... For the first time, all four books of the critically acclaimed and &lt;/span&gt;&lt;em style="background-color: #ffffff; color: #181818"&gt;New York Times &lt;/em&gt;&lt;span style="background-color: #ffffff; color: #181818"&gt;bestselling Seven Realms series are available in one place. Packed with romance, action, intrigue, and adventure, &lt;/span&gt;&lt;em style="background-color: #ffffff; color: #181818"&gt;The Demon King, The Exiled Queen, The Gray Wolf Throne, &lt;/em&gt;&lt;span style="background-color: #ffffff; color: #181818"&gt;and &lt;/span&gt;&lt;em style="background-color: #ffffff; color: #181818"&gt;The Crimson Crown &lt;/em&gt;&lt;span style="background-color: #ffffff; color: #181818"&gt;are epic fantasy at its very best.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Disney Hyperion</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f758496a-8afa-4ae6-a847-fd259d1289f7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction - Young Adult</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cinda Williams Chima&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-08-06T15:21:35+00:00"/>
+        <meta name="calibre:title_sort" content="Seven Realms Books #1-4, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

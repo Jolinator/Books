@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52198b28-ec53-4e52-9c47-aa2e39fb06c9</dc:identifier>
+        <dc:title>The Green Bone Saga 1 : Jade City</dc:title>
+        <dc:creator opf:file-as="Fonda, Lee" opf:role="aut">Fonda, Lee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Award-winning author Fonda Lee explodes onto the adult fantasy scene with JADE CITY, an epic saga reminiscent of &lt;i&gt;The Godfather&lt;/i&gt;&lt;i&gt; &lt;/i&gt;with magic and kungfu, set in an Asia-inspired fantasy metropolis.&lt;/b&gt;&lt;br&gt;FAMILY IS DUTY. MAGIC IS POWER. HONOR IS EVERYTHING.&lt;br&gt;Jade is the lifeblood of the island of Kekon. It has been mined, traded, stolen, and killed for &amp;#8212; and for centuries, honorable Green Bone warriors like the Kaul family have used it to enhance their magical abilities and defend the island from foreign invasion.&lt;br&gt;Now, the war is over and a new generation of Kauls vies for control of Kekon's bustling capital city. They care about nothing but protecting their own, cornering the jade market, and defending the districts under their protection. Ancient tradition has little place in this rapidly changing nation.&lt;br&gt;When a powerful new drug emerges that lets anyone &amp;#8212; even foreigners &amp;#8212; wield jade, the simmering tension between the Kauls and the rival...</dc:description>
+        <dc:publisher>Orbit</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Fonda, Lee&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Green Bone Saga"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-06-06T21:29:41+00:00"/>
+        <meta name="calibre:title_sort" content="Jade City"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

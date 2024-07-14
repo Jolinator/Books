@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d910e149-8392-433a-8690-039f14cef2d5</dc:identifier>
+        <dc:title>The Shadow Sect (Netherdei #1) - A Cultivation Progression Saga</dc:title>
+        <dc:creator opf:file-as="Hackshaw, Peter &amp; Books, Portal" opf:role="aut">Peter Hackshaw</dc:creator>
+        <dc:creator opf:file-as="Hackshaw, Peter &amp; Books, Portal" opf:role="aut">Portal Books</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-04T16:00:00+00:00</dc:date>
+        <dc:publisher>Portal Books</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09HCRBB19</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Peter Hackshaw&quot;: &quot;&quot;, &quot;Portal Books&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-01-22T21:45:25+00:00"/>
+        <meta name="calibre:title_sort" content="Shadow Sect (Netherdei #1) - A Cultivation Progression Saga, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

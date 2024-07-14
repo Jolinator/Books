@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f32859f0-71a3-44e3-ae96-c8d0b8f13579</dc:identifier>
+        <dc:title>The Complete Chalion</dc:title>
+        <dc:creator opf:file-as="Bujold, Lois McMaster" opf:role="aut">Lois McMaster Bujold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-12T00:37:57+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h4&gt;The Curse of Chalion  &lt;span class="Apple-style-span" style="font-family: Crimson; font-weight: normal; font-size: 12px; line-height: 18px; "&gt;ISBN: 0-380-97901-2&lt;/span&gt;&lt;/h4&gt;&lt;div&gt;&lt;h4&gt; Paladin of Souls  &lt;span class="Apple-style-span" style="font-family: Crimson; font-weight: normal; font-size: 12px; line-height: 18px; "&gt;ISBN 0-380-97902-0&lt;/span&gt;&lt;/h4&gt;&lt;h4&gt; The Hallowed Hunt  &lt;span class="Apple-style-span" style="font-family: Crimson; font-weight: normal; font-size: 12px; line-height: 18px; "&gt;  ISBN 0-06-057462-3&lt;/span&gt;&lt;/h4&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0060574623</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Lois McMaster Bujold&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-03-06T20:59:34+00:00"/>
+        <meta name="calibre:title_sort" content="Complete Chalion, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c402bede-1b8e-4657-8978-743f8cff4324</dc:identifier>
+        <dc:title>The Shadow of the Gods</dc:title>
+        <dc:creator opf:file-as="Gwynne, John" opf:role="aut">John Gwynne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-04T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;"A masterfully crafted, brutally compelling Norse-inspired epic." &amp;#8212;Anthony Ryan&lt;BR /&gt;THE GREATEST SAGAS ARE WRITTEN IN BLOOD.&lt;/B&gt;&lt;p&gt;&lt;BR /&gt;A century has passed since the gods fought and drove themselves to extinction. Now only their bones remain, promising great power to those brave enough to seek them out.&lt;BR /&gt;As whispers of war echo across the land of Vigrid, fate follows in the footsteps of three warriors: a huntress on a dangerous quest, a noblewoman pursuing battle fame, and a thrall seeking vengeance among the mercenaries known as the Bloodsworn.&lt;BR /&gt;All three will shape the fate of the world as it once more falls under the shadow of the gods.&lt;BR /&gt; &lt;p&gt;&lt;B&gt;Set in a brand-new, Norse-inspired world, and packed with myth, magic, and vengeance, &lt;I&gt;The Shadow of the Gods&lt;/I&gt; begins an epic new fantasy saga from bestselling author John Gwynne.&lt;/B&gt;&lt;BR /&gt;For more from John Gwynne, check out:&lt;BR /&gt; &lt;p&gt;Of Blood and Bone&lt;p&gt;&lt;I&gt;A Time of Dread&lt;/I&gt;&lt;p&gt;&lt;I&gt;A Time of...</dc:description>
+        <dc:publisher>Orbit</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;John Gwynne&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-08-04T23:16:14+00:00"/>
+        <meta name="calibre:title_sort" content="Shadow of the Gods, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

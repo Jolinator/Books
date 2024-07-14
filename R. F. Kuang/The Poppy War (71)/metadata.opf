@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5dffa209-becc-48da-860e-4866481461a1</dc:identifier>
+        <dc:title>The Poppy War</dc:title>
+        <dc:creator opf:file-as="Kuang, R. F." opf:role="aut">R. F. Kuang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;"I have no doubt this will end up being the best fantasy debut of the year [...] I have absolutely no doubt that [Kuang's] name will be up there with the likes of Robin Hobb and N.K. Jemisin." &amp;#8212; Booknest&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;A brilliantly imaginative talent makes her exciting debut with this epic historical military fantasy, inspired by the bloody history of China's twentieth century and filled with treachery and magic, in the tradition of Ken Liu's Grace of Kings and N.K. Jemisin's Inheritance Trilogy.&lt;/p&gt;&lt;p&gt;When Rin aced the Keju&amp;#8212;the Empire-wide test to find the most talented youth to learn at the Academies&amp;#8212;it was a shock to everyone: to the test officials, who couldn't believe a war orphan from Rooster Province could pass without cheating; to Rin's guardians, who believed they'd finally be able to marry her off and further their criminal enterprise; and to Rin herself, who realized she was finally free of the servitude and despair that had made up her...</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;R. F. Kuang&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-18T12:45:39.766464+00:00"/>
+        <meta name="calibre:title_sort" content="Poppy War, The"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: null, &quot;description&quot;: &quot;adwadwdaw&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

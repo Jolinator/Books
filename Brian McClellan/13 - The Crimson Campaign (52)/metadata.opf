@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae2d107b-c00c-41c2-b86f-50e296fb4325</dc:identifier>
+        <dc:title>13 - The Crimson Campaign</dc:title>
+        <dc:creator opf:file-as="McClellan, Brian" opf:role="aut">Brian McClellan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-05T23:00:00+00:00</dc:date>
+        <dc:publisher>Little, Brown Book Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781405519953</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00DI7HKW8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brian McClellan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-08-13T14:51:37.651775+00:00"/>
+        <meta name="calibre:title_sort" content="13 - The Crimson Campaign"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

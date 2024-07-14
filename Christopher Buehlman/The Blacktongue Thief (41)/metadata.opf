@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35a527e8-e318-4c14-a4e2-50b097054f63</dc:identifier>
+        <dc:title>The Blacktongue Thief</dc:title>
+        <dc:creator opf:file-as="Buehlman, Christopher" opf:role="aut">Christopher Buehlman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Set in a world of goblins, war ravens, well-inked assassins, and deadly magics, Christopher Buehlman's &lt;i&gt;The Blacktongue Thief&lt;/i&gt; begins a 'dazzling' (Robin Hobb) new fantasy adventure.&lt;br&gt;&lt;/b&gt;&lt;br&gt;Kinch Na Shannack owes the Takers Guild a small fortune for his education as a thief, which includes (but is not limited to) lock-picking, knife-fighting, wall-scaling, fall-breaking, lie-weaving, trap-making, plus a few small magics. His debt has driven him to lie in wait by the old forest road, planning to rob the next traveler that crosses his path.&lt;br&gt;But today, Kinch Na Shannack has picked the wrong mark.&lt;br&gt;Galva is a knight, a survivor of the brutal goblin wars, and handmaiden of the goddess of death. She is searching for her queen, missing since a distant northern city fell to giants.&lt;br&gt;Unsuccessful in his robbery and lucky to escape with his life, Kinch now finds his fate entangled with Galva's. Common enemies and uncommon dangers force thief and knight on an epic...</dc:description>
+        <dc:publisher>Tom Doherty Associates</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Christopher Buehlman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-06-09T12:50:40+00:00"/>
+        <meta name="calibre:title_sort" content="Blacktongue Thief, The"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: null, &quot;description&quot;: &quot;adwadwdaw&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: 125852, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

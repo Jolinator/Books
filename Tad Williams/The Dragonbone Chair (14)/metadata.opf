@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e00c9ab9-0c85-4f90-8beb-b1d8f62ad431</dc:identifier>
+        <dc:title>The Dragonbone Chair</dc:title>
+        <dc:creator opf:file-as="Williams, Tad" opf:role="aut">Tad Williams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-01-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;From School Library Journal&lt;/h3&gt;&lt;p&gt;YA-- Williams, author of Tailchaser's Song (NAL, 1986), scores with the first book in another fantasy trilogy. Simon is an ordinary kitchen helper who is taken under the tutelage of the magician Morgenes. When King John Presbyter dies and his son Elias ascends the throne, the way opens for a long-dormant evil to enter the realm. Elias, a pawn of the black magician Pyrates, moves to eliminate his brother Josua, and the brother-against-brother, good-versus-evil clash begins. Simon is thrown in with Josua and muddles through adventure and peril, maturing into a hero by book's end. Williams weaves all of the classic ingredients of fantasy into his tale--trolls, giants, elf-like sithi, and dragons. Simon must travel from drought-stricken lands to ice-bound peaks as he follows his far-seeing dreams. The land of Osten Ard is well created, and readers quickly become immersed in the story. Unfortunately, despite the high adventure and excitement, The Dragonbone Chair leaves many loose ends, so readers, like Simon, are left waiting--for book two.&lt;br&gt;&lt;em&gt;- Margaret Sloan, Willowridge High School, Sugar Land, Tex.&lt;/em&gt;&lt;br&gt;Copyright 1989 Reed Business Information, Inc. &lt;/p&gt;&lt;h3&gt;From Library Journal&lt;/h3&gt;&lt;p&gt;As war threatens to rip apart a once peaceful land, a young kitchen boy turned magician's apprentice embarks on a journey that could save his world from the dark machinations of a king gone mad. The author of Tailchaser's Song draws on many mythologies for the background of his fantasy epic, creating a solid story spiced with political intrigue and strong, appealing heroes. Highly recommended. JC&lt;br&gt;Copyright 1988 Reed Business Information, Inc. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>DAW Trade</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">JT9QPgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780756402693</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0756402697</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Epic</dc:subject>
+        <dc:subject>fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tad Williams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-06-04T14:12:41+00:00"/>
+        <meta name="calibre:title_sort" content="Dragonbone Chair, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

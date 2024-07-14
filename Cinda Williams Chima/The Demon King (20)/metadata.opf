@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3cc5fab8-47d2-4171-b703-f6f1fc1755c3</dc:identifier>
+        <dc:title>The Demon King</dc:title>
+        <dc:creator opf:file-as="Chima, Cinda Williams" opf:role="aut">Cinda Williams Chima</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-06T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Times are hard in the mountain city of Fellsmarch. Reformed thief Han Alister will do almost anything to eke out a living for himself, his mother, and his sister Mari. Ironically, the only thing of value he has is something he can't sell. For as long as Han can remember, he's worn thick silver cuffs engraved with runes. They're clearly magicked—as he grows, they grow, and he's never been able to get them off. While out hunting one day, Han and his Clan friend, Dancer catch three young wizards setting fire to the sacred mountain of Hanalea. After a confrontation, Han takes an amulet from Micah Bayar, son of the High Wizard, to ensure the boy won't use it against them. Han soon learns that the amulet has an evil history—it once belonged to the Demon King, the wizard who nearly destroyed the world a millennium ago. With a magical piece that powerful at stake, Han knows that the Bayars will stop at nothing to get it back. Meanwhile, Raisa ana'Helena, Princess Heir of the Fells, has her own battles to fight. She's just returned to court after three years of relative freedom with her father's family at Demonai camp – riding, hunting, and working the famous Clan markets. Although Raisa will become eligible for marriage after her sixteenth name-day, she isn't looking forward to trading in her common sense and new skills for etiquette tutors and stuffy parties. Raisa wants to be more than an ornament in a glittering cage. She aspires to be like Hanalea—the legendary warrior queen who killed the Demon King and saved the world. But it seems like her mother has other plans for her--plans that include a suitor who goes against everything the Queendom stands for. The Seven Realms will tremble when the lives of Han and Raisa collide in this stunning new page-turner from bestselling author Cinda Williams Chima.&lt;/p&gt;&lt;h3&gt;From School Library Journal&lt;/h3&gt;&lt;p&gt;Grade 7 Up—Han Alister was once a street thief and gang leader, nicknamed Cuffs for the magical silver cuffs he's worn for as long as he can remember. Now that he's reformed, he can't seem to escape from his past, and he spends much of his time hunting in the mountains with his clan friends. When he and his friend Fire Dancer meet a group of young wizards, Han comes into possession of a magical amulet linked to the legendary Demon King, not knowing that it will bring danger to him and his family. Meanwhile, Princess Raisa is soon to turn 16 and be named heir to her mother's throne. She becomes aware of intrigues that surround the queen, who seems to be strongly influenced by their country's High Wizard. Han's and Raisa's adventures and journeys toward understanding themselves run parallel throughout the book, intersecting only when the princess dresses up as a commoner and meets Han briefly. The conclusion leaves both Raisa and Han setting out on new adventures toward a common destination, leaving much to be resolved in their futures and in the future of their land. Chima shows a sure hand with details and history, and readers will be drawn into the lives of the two protagonists. Fans of magic, danger, and high fantasy will find a complex and involving world and be left waiting for the next volume in this exciting trilogy.—&lt;em&gt;Beth L. Meister, Milwaukee Jewish Day School, WI&lt;/em&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;Praise for The Demon King: 'The Demon King is a page-turner for any reader, regardless of age.' Robin Hobb 'Dozens of characters, complex and distinct in personality, are placed with jewel-like precision, set off by dark glints of villainy... [readers] will clamor for the sequel.' Publishers Weekly Praise for Cinda Williams Chima: For The Dragon Heir: Centuries of wizardly scheming, slavery and slaughter reap apocalyptic fallout in this final volume of Chima's trilogy... Heroes and villains alike are swayed by achingly human motivations into disastrous choices with devastating consequences...The resolution is-like the end of childhood itself-tentatively hopeful, if not triumphant. A superlative accomplishment. Kirkus. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Disney Hyperion</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B002PEP4NC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0007321988</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Teen &amp; Young Adult</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>fantasy</dc:subject>
+        <dc:subject>Literature &amp; Fiction</dc:subject>
+        <dc:subject>Fairy Tales &amp; Folklore</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Cinda Williams Chima&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Seven Realms"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-08-01T20:02:32+00:00"/>
+        <meta name="calibre:title_sort" content="Demon King, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

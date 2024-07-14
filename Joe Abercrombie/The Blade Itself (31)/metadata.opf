@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f9b54d7-be7c-4e6d-b257-88668130fc6d</dc:identifier>
+        <dc:title>The Blade Itself</dc:title>
+        <dc:creator opf:file-as="ABERCROMBIE, JOE" opf:role="aut">Joe Abercrombie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;The first novel in the First Law Trilogy and debut novel from &lt;i&gt;New York Times&lt;/i&gt; bestseller, Joe Abercrombie.&lt;/b&gt;&lt;br&gt;Logen Ninefingers, infamous barbarian, has finally run out of luck. Caught in one feud too many, he's on the verge of becoming a dead barbarian &amp;#8212; leaving nothing behind him but bad songs, dead friends, and a lot of happy enemies. &lt;br&gt; Nobleman, dashing officer, and paragon of selfishness, Captain Jezal dan Luthar has nothing more dangerous in mind than fleecing his friends at cards and dreaming of glory in the fencing circle. But war is brewing, and on the battlefields of the frozen North they fight by altogether bloodier rules. &lt;br&gt; Inquisitor Glokta, cripple turned torturer, would like nothing better than to see Jezal come home in a box. But then Glokta hates everyone: cutting treason out of the Union one confession at a time leaves little room for friendship. His latest trail of corpses may lead him right to the rotten heart of government, if he can...</dc:description>
+        <dc:publisher>Orbit</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction / Fantasy / Epic</dc:subject>
+        <dc:subject>Fiction / Action &amp; Adventure</dc:subject>
+        <dc:subject>Fiction / Fantasy / Historical</dc:subject>
+        <dc:subject>Fiction / War &amp; Military</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joe Abercrombie&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-03-12T22:03:00+00:00"/>
+        <meta name="calibre:title_sort" content="Blade Itself, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3940d889-8fcc-4780-a041-2dd7ccf67e15</dc:identifier>
+        <dc:title>Witch King</dc:title>
+        <dc:creator opf:file-as="Wells, Martha" opf:role="aut">Martha Wells</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;A LibraryReads Pick!&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;From the breakout SFF superstar author of Murderbot comes a remarkable story of power and friendship, of trust and betrayal, and of the families we choose.&lt;/i&gt;&lt;br&gt;"I didn't know you were a... demon."&lt;br&gt;"You idiot. I'm &lt;i&gt;the&lt;/i&gt; demon."&lt;br&gt;&lt;i&gt;Kai's having a long day in Martha Wells' WITCH KING....&lt;br&gt;&lt;/i&gt;&lt;br&gt;After being murdered, his consciousness dormant and unaware of the passing of time while confined in an elaborate water trap, Kai wakes to find a lesser mage attempting to harness Kai's magic to his own advantage. That was never going to go well.&lt;br&gt; But why was Kai imprisoned in the first place? What has changed in the world since his assassination? And why does the Rising World Coalition appear to be growing in influence?&lt;br&gt; Kai will need to pull his allies close and draw on all his pain magic if he is to answer even the least of these questions.&lt;br&gt; He's not going to like the answers.&lt;br&gt; WITCH KING&lt;i&gt; is Martha Wells's first new...</dc:description>
+        <dc:publisher>Tor Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Martha Wells&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-18T12:45:37.782693+00:00"/>
+        <meta name="calibre:title_sort" content="Witch King"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: null, &quot;description&quot;: &quot;adwadwdaw&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

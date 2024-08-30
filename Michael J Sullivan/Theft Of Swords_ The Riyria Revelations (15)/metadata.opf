@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff991a05-68d1-4e68-b937-7b491b2e267d</dc:identifier>
+        <dc:title>Theft Of Swords: The Riyria Revelations</dc:title>
+        <dc:creator opf:file-as="Sullivan, Michael J" opf:role="aut">Michael J Sullivan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-05T23:00:00+00:00</dc:date>
+        <dc:publisher>Hachette Littlehampton</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780748131358</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B005N6MDBA</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-18T19:46:07.697178+00:00"/>
+        <meta name="calibre:title_sort" content="Theft Of Swords: The Riyria Revelations"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

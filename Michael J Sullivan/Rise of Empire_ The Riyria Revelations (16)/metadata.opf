@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54a846c2-eb4d-4075-8ccd-d98c4a867fba</dc:identifier>
+        <dc:title>Rise of Empire: The Riyria Revelations</dc:title>
+        <dc:creator opf:file-as="Sullivan, Michael J" opf:role="aut">Michael J Sullivan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-01T04:46:54+00:00</dc:date>
+        <dc:description>FORTUNE FAVOURS THE THIEFThe birth of the Nyphron Empire has brought war to Melengar. To save her kingdom, Princess Arista runs a desperate gamble when she defies her brother and hires Royce and Hadrian to perform a dangerous mission behind the enemy's lines. As the power of the Nyphron Empire grows, so does Royce's suspicion that the wizard Esrahaddon is using the thieves as pawns in his own shadowy struggle for power. To find the truth, he must unravel the secret of Hadrian's past. What he discovers leads the thieves to the ends of the world on a journey amid treachery and betrayals, forcing Hadrian to face a past he hoped never to see again.'This epic fantasy showcases the arrival of a master storyteller' Library Journal on Theft of SwordsThe Riyria RevelationsTHEFT OF SWORDSRISE OF EMPIREHEIR OF NOVRONThe Riyria ChroniclesTHE CROWN TOWER THE ROSE AND THE THORN</dc:description>
+        <dc:publisher>Little, Brown Book Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780748131365</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8HXmKfGzr-IC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>epic</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:series" content="Riyria Revelations"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2024-08-18T19:54:09.222142+00:00"/>
+        <meta name="calibre:title_sort" content="Rise of Empire: The Riyria Revelations"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

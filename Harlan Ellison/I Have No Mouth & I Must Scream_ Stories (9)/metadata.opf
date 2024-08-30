@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2920c501-b749-4dc0-8c67-e7a681fe96b9</dc:identifier>
+        <dc:title>I Have No Mouth &amp; I Must Scream: Stories</dc:title>
+        <dc:creator opf:file-as="Ellison, Harlan" opf:role="aut">Harlan Ellison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Seven stunning stories of speculative fiction by the author of&lt;/strong&gt; A Boy and His Dog &lt;strong&gt;.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;In a post-apocalyptic world, four men and one woman are all that remain of the human race, brought to near extinction by an artificial intelligence. Programmed to wage war on behalf of its creators, the AI became self-aware and turned against humanity. The five survivors are prisoners, kept alive and subjected to brutal torture by the hateful and sadistic machine in an endless cycle of violence. &lt;/p&gt;
+&lt;p&gt;This story and six more groundbreaking and inventive tales that probe the depths of mortal experience prove why Grand Master of Science Fiction Harlan Ellison has earned the many accolades to his credit and remains one of the most original voices in American literature. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I Have No Mouth and I Must Scream&lt;/em&gt; also includes “Big Sam Was My Friend,” “Eyes of Dust,” “World of the Myth,” “Lonelyache,” Hugo Award finalist “Delusion for a Dragon Slayer,” and Hugo and Nebula Award finalist “Pretty Maggie Moneyeyes.”&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Harlan Ellison (1934–2018), in a career spanning more than fifty years, wrote or edited one hundred fourteen books; more than seventeen hundred stories, essays, articles, and newspaper columns; two dozen teleplays; and a dozen motion pictures. He won the Hugo Award eight and a half times (shared once); the Nebula Award three times; the Bram Stoker Award, presented by the Horror Writers Association, five times (including the Lifetime Achievement Award in 1996); the Edgar Allan Poe Award of the Mystery Writers of America twice; the Georges Melies Fantasy Film Award twice; and two Audie Awards (for the best in audio recordings); and he was awarded the Silver Pen for Journalism by PEN, the international writers’ union. He was presented with the first Living Legend Award by the International Horror Critics at the 1995 World Horror Convention. Ellison is the only author in Hollywood ever to win the Writers Guild of America award for Outstanding Teleplay (solo work) four times, most recently for “Paladin of the Lost Hour,” his &lt;em&gt;Twilight Zone&lt;/em&gt; episode that was Danny Kaye’s final role, in 1987. In 2006, Ellison was awarded the prestigious title of Grand Master by the Science Fiction and Fantasy Writers of America. &lt;em&gt;Dreams with Sharp Teeth&lt;/em&gt; , the documentary chronicling his life and works, was released on DVD in May 2009. He passed away in 2018 at the age of eighty-four. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Open Road Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781497643079</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1497643074</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B00JVCHEMU</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ARpoAwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Anthologies</dc:subject>
+        <dc:subject>Collections</dc:subject>
+        <dc:subject>Dystopia</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <meta name="calibre:series" content="Voice From the Edge"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2024-07-14T20:11:22.093144+00:00"/>
+        <meta name="calibre:title_sort" content="I Have No Mouth &amp; I Must Scream: Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

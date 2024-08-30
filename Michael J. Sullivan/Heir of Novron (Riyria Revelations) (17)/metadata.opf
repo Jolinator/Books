@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f7de3b6-e819-4a58-938c-7a531df7a8b8</dc:identifier>
+        <dc:title>Heir of Novron (Riyria Revelations)</dc:title>
+        <dc:creator opf:file-as="Sullivan, Michael J." opf:role="aut">Michael J. Sullivan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-30T23:00:00+00:00</dc:date>
+        <dc:publisher>Orbit</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316192736</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004RCNGQM</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>FIC009000</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-18T19:54:24.118074+00:00"/>
+        <meta name="calibre:title_sort" content="Heir of Novron (Riyria Revelations)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

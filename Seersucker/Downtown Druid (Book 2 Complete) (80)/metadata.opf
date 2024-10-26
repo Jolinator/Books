@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b94f7a62-ba7c-4b67-8449-20aaecf86e5c</dc:identifier>
+        <dc:title>Downtown Druid (Book 2 Complete)</dc:title>
+        <dc:creator opf:file-as="Seersucker" opf:role="aut">Seersucker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-10-17T15:03:33.986000+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">https://www.royalroad.com/fiction/79173/downtown-druid</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-10-17T15:03:50.394243+00:00"/>
+        <meta name="calibre:title_sort" content="Downtown Druid (Book 2 Complete)"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: null, &quot;description&quot;: &quot;adwadwdaw&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

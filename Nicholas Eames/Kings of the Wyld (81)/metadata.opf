@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">81</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1b1f2f3-e113-4d6f-9f2b-3c0a8b8f5013</dc:identifier>
+        <dc:title>Kings of the Wyld</dc:title>
+        <dc:creator opf:file-as="Eames, Nicholas" opf:role="aut">Nicholas Eames</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-21T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;GLORY NEVER GETS OLD.&lt;/b&gt;&lt;br&gt; Clay Cooper and his band were once the best of the best, the most feared and renowned crew of mercenaries this side of the Heartwyld. &lt;br&gt; Their glory days long past, the mercs have grown apart and grown old, fat, drunk, or a combination of the three. Then an ex-bandmate turns up at Clay's door with a plea for help&amp;#8212;the kind of mission that only the very brave or the very stupid would sign up for. &lt;br&gt;&lt;b&gt;&lt;br&gt; It's time to get the band back together.&lt;/b&gt;</dc:description>
+        <dc:publisher>Orbit</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction / Fantasy / Epic</dc:subject>
+        <dc:subject>Fiction / Action &amp; Adventure</dc:subject>
+        <meta name="calibre:timestamp" content="2024-10-26T01:04:27.707250+00:00"/>
+        <meta name="calibre:title_sort" content="Kings of the Wyld"/>
+        <meta name="calibre:user_metadata:#words" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;int&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Words&quot;, &quot;search_terms&quot;: [&quot;#words&quot;], &quot;label&quot;: &quot;words&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;number_format&quot;: null, &quot;description&quot;: &quot;adwadwdaw&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

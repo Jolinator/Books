@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8782bc3-ad86-4f02-b5a6-973103a22e26</dc:identifier>
+        <dc:title>An Ember in the Ashes</dc:title>
+        <dc:creator opf:file-as="Tahir, Sabaa" opf:role="aut">Sabaa Tahir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-17T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;INSTANT &lt;i&gt;NEW YORK TIMES&lt;/i&gt; BESTELLER&lt;br&gt; &lt;/b&gt;&lt;br&gt; Perfect for fans of &lt;i&gt;Red Queen&lt;/i&gt; and Marissa Meyer's &lt;i&gt;Lunar Chronicles&lt;/i&gt; series, &lt;i&gt;An Ember in the Ashes, &lt;/i&gt;is the first book in an exhilarating fantasy adventure series about the power of hope in the face of oppression. &lt;br&gt; Debut novelist Sabaa Tahir tells the thrilling, heart-wrenching story of two unforgettable characters willing to sacrifice everything for the chance to write their own destinies. &lt;br&gt; &lt;br&gt; In a world inspired by ancient Rome and defined by brutality, seventeen-year old Laia has grown up with one rule for survival: Never challenge the Empire. But when Laia's brother Darin is arrested for treason, she leaves behind everything she knows, risking her life to try and save him. She enlists help from the rebels whose extensive underground network may lead to Darin. Their help comes with a price, though. Laia must infiltrate the Empire's greatest military academy as a spy. &lt;br&gt; &lt;br&gt; Elias is the...</dc:description>
+        <dc:publisher>Penguin Young Readers Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780698176461</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-08-07T01:13:06+00:00"/>
+        <meta name="calibre:title_sort" content="Ember in the Ashes, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

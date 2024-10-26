@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">989f178e-82f4-4044-adde-969ebf3f3bdd</dc:identifier>
+        <dc:title>Knight and Smith</dc:title>
+        <dc:creator opf:file-as="FirstKnight" opf:role="aut">FirstKnight</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-29T11:28:00+00:00</dc:date>
+        <dc:description>&lt;div class="hidden-content"&gt;
+                &lt;p&gt;Secrets once thought lost are coming to light...&lt;/p&gt;
+&lt;p&gt;Orin, a young thief turned mercenary, is returning to his home for the first time in four years. Orin wants nothing more than to reconnect with his family and settle down in the city he loves, but fate is fickle and has another destiny in mind for the swordsman.&lt;/p&gt;
+&lt;p&gt;Now bound to the Princess of the Realm in ways he doesn't fully understand, Orin finds himself thrust into the world of Nobility, where no one can be truly trusted and his friends are few and far between.&lt;/p&gt;
+&lt;p&gt;To ensure his survival, and that of the entire Kingdom, Orin must learn to harness the power of a Knight and work with the Princess Elora to protect those they both love, all while dealing with psychotic Knights, a mad King and Elora's own protectors.&lt;/p&gt;
+&lt;p&gt;Well, if nothing else, I'm sure it will be an adventure.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;This is one of the ideas I've been working on for a while and wanted to see how far I can go with it.&lt;/p&gt;
+&lt;p&gt;There's nothing really original here, just something fun I wanted to explore a bit more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chapters will be posted once a week on Sundays.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Thank you for reading and I hope that you enjoy Knight and Smith!&lt;/p&gt;
+            &lt;/div&gt;</dc:description>
+        <dc:publisher>www.royalroad.com</dc:publisher>
+        <dc:identifier opf:scheme="URL">https://www.royalroad.com/fiction/37155</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>High Fantasy</dc:subject>
+        <dc:subject>Male Lead</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Strong Lead</dc:subject>
+        <dc:subject>Original</dc:subject>
+        <dc:subject>Hiatus</dc:subject>
+        <meta name="calibre:link_maps" content="{&quot;authors&quot;: {&quot;FirstKnight&quot;: &quot;https://www.royalroad.com/user/profile/177215&quot;}}"/>
+        <meta name="calibre:timestamp" content="2024-08-18T01:08:55.676960+00:00"/>
+        <meta name="calibre:title_sort" content="Knight and Smith"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
